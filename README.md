@@ -9,7 +9,6 @@
 - [Falafel](music/music_falafel.wav)
 - [Menu Intro](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
 - [Menu Loop](music/music_menu_loop.wav): The rest of Sayonara Wild Hearts, menu selection background music
-
 - [Clare De Lune (Menu)](music/music_clairedelune_menu.wav)
 - [Clare De Lune](music/music_clairedelune.wav)
 
@@ -22,10 +21,8 @@
 
 - [Doki Doki Rush (Menu)](music/music_konichiwa_menu.wav)
 - [Doki Doki Rush](music/music_konichiwa.wav)
-
 - [Fighting Hearts (Menu)](music/music_fight_menu.wav)
 - [Fighting Hearts](music/music_fight.wav)
-
 - [Begin Again (Menu)](music/music_lasttime_menu.wav)
 - [Begin Again](music/music_lasttime.wav)
 
@@ -39,13 +36,10 @@
 - [Forest Ghost (Menu)](music/music_forest_menu.wav)
 - [Forest Ghost (Intro)](music/music_forest_intro.wav)
 - [Forest Ghost](music/music_forest.wav)
-
 - [Forest Dub (Menu)](music/music_chase_menu.wav)
 - [Forest Dub](music/music_chase.wav)
-
 - [Laser Love (Menu)](music/music_shooter_menu.wav)
 - [Laser Love](music/music_shooter.wav)
-
 - [Dead of Night (Menu)](music/music_deadofnight_menu.wav)
 - [Dead of Night](music/music_deadofnight.wav)
 
@@ -59,10 +53,8 @@
 - [Hearts & Swords (Menu)](music/music_loversintro_menu.wav)
 - [Hearts & Swords (Intro)](music/music_loversintro_intro.wav)
 - [Hearts & Swords](music/music_loversintro.wav)
-
 - [Paralell Universe (Menu)](music/music_rhythmstage_menu.wav)
 - [Paralell Universe](music/music_rhythmstage.wav)
-
 - [Mine (Menu)](music/music_mine_menu.wav)
 - [Mine (Intro)](music/music_mine_intro.wav)
 - [Mine](music/music_mine.wav)
@@ -76,10 +68,8 @@
 
 - [Night Drift (Menu)](music/music_carstage_menu.wav)
 - [Night Drift](music/music_carstage.wav)
-
 - [Reverie (Menu)](music/music_virtual_menu.wav)
 - [Reverie](music/music_virtual.wav)
-
 - [The World We Knew (Menu)](music/twwk_menu.wav)
 - [The World We Knew (Intro)](music/twwk_intro_.wav)
 - [The World We Knew](music/twwk.wav)
@@ -93,10 +83,8 @@
 
 - [Transonic Gravity (Menu)](music_gravity_menu.wav)
 - [Transonic Gravity](music_gravity.wav)
-
 - [Hate Skulls (Menu)](music/music_skulls_menu.wav)
 - [Hate Skulls](music/music_skulls.wav)
-
 - [Inside (Menu)](music/music_inside_menu.wav)
 - [Inside](music/music_inside.wav)
 
