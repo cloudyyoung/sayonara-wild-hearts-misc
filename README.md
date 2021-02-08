@@ -9,7 +9,7 @@
 #### Game Intro / Prolog
 
 - [Falafel](music/music_falafel.wav)
-- [Menu (Intro)](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
+- [Menu Intro](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
 - [Menu Loop](music/music_menu_loop.wav): The rest of Sayonara Wild Hearts, menu selection background music
 
 - [Clare De Lune (Menu)](music/music_clairedelune_menu.wav)
@@ -131,8 +131,14 @@
 
 ## Image
 
-- Zodiac signs icon
+![Zodiac Sign Icons](image/Menu_Zodiac_Signs.png.png)
+![2D Hearts](image/Level2D_HeartBoss.png)
+![Tarrot Cards](image/Tarotcards_01.png)
 
 ## Font
 
 - Trigot
+
+## Text
+
+Includes language files for platforms. Spoilers for Zodiac Sign Riddles Warning if you check them!
