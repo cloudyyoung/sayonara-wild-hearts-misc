@@ -9,8 +9,8 @@
 - [Falafel](music/music_falafel.wav)
 - [Menu Intro](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
 - [Menu Loop](music/music_menu_loop.wav): The rest of Sayonara Wild Hearts, menu selection background music
-- [Clare De Lune (Menu)](music/music_clairedelune_menu.wav)
-- [Clare De Lune](music/music_clairedelune.wav)
+- [Clair De Lune (Menu)](music/music_clairedelune_menu.wav)
+- [Clair De Lune](music/music_clairedelune.wav)
 
 ### Heartbreak Subspace - Devil Passage
 
@@ -91,7 +91,7 @@
 ### Bittersweet Starway / Heartbreak Subspace - Arcana Expressway / Somewhere over Malmö
 
 - [Wild Hearts Never Die (Menu)](music/music_wildheartsneverdie_menu.wav)
-- [Medley: Eye of Death / Wild Hearts Never Die / Clare De Lune](music/music_wildheartsneverdie.wav)
+- [Medley: Eye of Death / Wild Hearts Never Die / Clair De Lune](music/music_wildheartsneverdie.wav)
 
 ### Menu
 
