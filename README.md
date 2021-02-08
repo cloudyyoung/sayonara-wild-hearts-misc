@@ -131,7 +131,7 @@
 
 ## Image
 
-![Zodiac Sign Icons](image/Menu_Zodiac_Signs.png.png)
+![Zodiac Sign Icons](image/Menu_Zodiac_Signs.png)
 ![2D Hearts](image/Level2D_HeartBoss.png)
 ![Tarrot Cards](image/Tarotcards_01.png)
 
