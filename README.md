@@ -1,3 +1,5 @@
+![Sayonara-Wild-Hearts-desktop-bg.png](Sayonara-Wild-Hearts-desktop-bg.png)
+
 # Sayonara Wild Hearts - Misc files
 
 ## Music
