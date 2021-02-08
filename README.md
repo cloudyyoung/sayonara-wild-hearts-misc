@@ -97,7 +97,7 @@
 
 - [Skip](music/music_skip.wav): The Magician Card
 - [Locked](music/music_locked_menu.wav)
-- [Pause](music/music_pause.wav)
+- [Pause](music/music_pause.wav): Arabesque no. 1 by Debussy
 - [Results](music/music_results.wav)
 - [Settings](music/music_settings.wav)
 - [Shuffle Bridge](music/music_shufflebridge.wav)
