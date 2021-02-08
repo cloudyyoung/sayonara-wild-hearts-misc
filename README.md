@@ -9,8 +9,8 @@
 #### Game Intro / Prolog
 
 - [Falafel](music/music_falafel.wav)
-- [Menu (Intro)](music/music_menu_intro01.wav) (Only the intro part of Sayonara Wild Hearts, played as studio names shown)
-- [Menu Loop](music/music_menu_loop.wav) (The rest of Sayonara Wild Hearts, menu selection background music)
+- [Menu (Intro)](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
+- [Menu Loop](music/music_menu_loop.wav): The rest of Sayonara Wild Hearts, menu selection background music
 
 - [Clare De Lune (Menu)](music/music_clairedelune_menu.wav)
 - [Clare De Lune](music/music_clairedelune.wav)
@@ -109,7 +109,7 @@
 
 #### Menu
 
-- [Skip](music/music_skip.wav) The Magician Card
+- [Skip](music/music_skip.wav): The Magician Card
 - [Locked](music/music_locked_menu.wav)
 - [Pause](music/music_pause.wav)
 - [Results](music/music_results.wav)
