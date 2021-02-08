@@ -9,3 +9,7 @@
 ## Image
 
 - Zodiac signs icon
+
+
+## Font
+- Trigot
