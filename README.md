@@ -4,7 +4,7 @@
 
 ## Music Highlightes
 
-### Game Intro / Prolog
+### Prolog / Bittersweet Starway
 
 - [Falafel](music/music_falafel.wav)
 - [Menu Intro](music/music_menu_intro01.wav): Only the intro part of Sayonara Wild Hearts, played as studio names shown
@@ -88,7 +88,7 @@
 - [Inside (Menu)](music/music_inside_menu.wav)
 - [Inside](music/music_inside.wav)
 
-### Bittersweet Starway / Heartbreak Subspace - Arcana Expressway / Somewhere over Malmö
+### Heartbreak Subspace - Arcana Expressway / Bittersweet Starway / Somewhere over Malmö
 
 - [Wild Hearts Never Die (Menu)](music/music_wildheartsneverdie_menu.wav)
 - [Medley: Eye of Death / Wild Hearts Never Die / Clair De Lune](music/music_wildheartsneverdie.wav)
